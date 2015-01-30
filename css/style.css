@@ -675,3 +675,71 @@ h3
 {
     padding-top: 50px;
 }
+
+
+.quote-block p {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+.content-block .in-login-p {
+    padding-top: 20px;
+}
+
+.login-block table tr td {
+    color: #5f5f5f;
+    font-family: arial;
+    font-size: 15px;
+    height: 60px;
+    min-width: 100px;
+    vertical-align: middle;
+}
+
+.login-block table tr td input {
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    color: #5f5f5f;
+    display: inline-block;
+    font-family: arial;
+    height: 20px;
+    padding: 5px;
+    width: 190px;
+}
+
+.login-block .one-row-long {
+    display: block;
+    margin-top: 25px;
+    min-height: 40px;
+    width: 100%;
+}
+.one-row-long .button {
+    display: block;
+    float: left;
+    margin-left: 20px;
+}
+
+.one-row-long .button:first-child {
+    margin-left: 0;
+}
+
+.one-row-long .pass-forgot {
+    color: #6f5896;
+    font-family: arial;
+    height: 40px;
+    line-height: 35px;
+    margin-left: 20px;
+}
+
+.main-wrapper p.error-text {
+    color: #ff3a36;
+    font-size: 12px;
+}
+
+.main-wrapper p.message-text {
+    color: #662c91;
+    font-family: neogram_lightlight;}
+
+
+
+
