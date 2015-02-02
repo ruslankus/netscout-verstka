@@ -741,8 +741,14 @@ h3
     color: #662c91;
     font-family: neogram_lightlight;}
 	
+	
+	
 /*--- key field - register ---*/
-.login-block table tr td input.key-field {width:46px; font-size:17px}	
+.login-block table tr td input.key-field {width:46px; font-size:17px}
+
+.errorMessage {
+	font-size:12px;
+	color:red;}	
 
 
 
